@@ -9,3 +9,4 @@ Stay tuned as there are more Machine Learning Algorithms coming up!
 # Topics 
 Distribution Introduction
 * Bernoulli distribution
+* Binomial distribution
