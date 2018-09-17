@@ -7,5 +7,5 @@ If you have found any useful material and concept from my repository or you woul
 Stay tuned as there are more Machine Learning Algorithms coming up!
 
 # Topics 
-Distribution
+Distribution Introduction
 * Bernoulli distribution
