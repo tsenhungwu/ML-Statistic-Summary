@@ -7,6 +7,10 @@ If you have found any useful material and concept from my repository or you woul
 Stay tuned as there are more Machine Learning Algorithms coming up!
 
 # Topics 
-Distribution Introduction
+## Statistic
 * Bernoulli distribution
 * Binomial distribution
+
+## Random Number Generator
+* Linear Congruential Method
+* RANDU Generator
