@@ -17,8 +17,12 @@ Stay tuned as there are more interesting concepts / techniques / tools coming up
 
 # Topics 
 ## Statistic
-* Bernoulli distribution
-* Binomial distribution
+* Normal Distribution
+* Normality Assumption Diagnosis
+* Uniform Distribution
+* Bernoulli Distribution
+* Binomial Distribution
+
 
 ## Random Number Generators
 * Linear Congruential Method
