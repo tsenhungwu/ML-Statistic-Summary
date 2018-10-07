@@ -26,6 +26,7 @@ Stay tuned as there are more interesting concepts / techniques / tools coming up
 ## Statistic
 * Normal Distribution
 * Normality Assumption Diagnosis
+* Transform data into a normal distribution
 * Uniform Distribution
 * Bernoulli Distribution
 * Binomial Distribution
