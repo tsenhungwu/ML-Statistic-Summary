@@ -1,4 +1,4 @@
-# ML + DL + Statistic + Random Number Generators Summary
+# ML + DL + Statistic + Random Number Generators 
 
 Here is the summary of what I have learned so far by myself.
 
