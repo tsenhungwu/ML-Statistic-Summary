@@ -19,6 +19,8 @@ Stay tuned as there are more interesting concepts / techniques / tools coming up
 ## Machine Learning Models
 * Naive Bayes
 
+## Deep Learning Models
+
 ## Statistic
 * Normal Distribution
 * Normality Assumption Diagnosis
@@ -30,7 +32,3 @@ Stay tuned as there are more interesting concepts / techniques / tools coming up
 ## Random Number Generators
 * Linear Congruential Method
 * RANDU Generator
-
-## Machine Learning
-
-## Deep Learning
