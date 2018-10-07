@@ -1,6 +1,7 @@
 # ML + DL + Statistic + Random Number Generators 
 
 Here is the summary of what I have learned so far by myself.
+I recorded all the techniques, concepts, and knowledge as jupyter notebook files (Python programming languages). 
 
 Four main topics covered (will be covered in this repository) are Machine-Learning, eep-Learning, Statistic, and Random Number Generators.
 
