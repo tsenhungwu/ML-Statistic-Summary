@@ -30,7 +30,7 @@ Stay tuned as there are more interesting concepts / techniques / tools coming up
 * Uniform Distribution
 * Bernoulli Distribution
 * Binomial Distribution
-
+* Geometric Distribution
 
 ## Random Number Generators
 * Linear Congruential Method
