@@ -31,6 +31,7 @@ Stay tuned as there are more interesting concepts / techniques / tools coming up
 * Bernoulli Distribution
 * Binomial Distribution
 * Geometric Distribution
+* Negative Binomial Distribution
 
 ## Random Number Generators
 * Linear Congruential Method
