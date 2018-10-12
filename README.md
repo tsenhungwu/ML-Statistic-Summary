@@ -33,6 +33,7 @@ Stay tuned as there are more interesting concepts / techniques / tools coming up
 * Geometric Distribution
 * Negative Binomial Distribution
 * Poisson Distribution
+* Exponential Distribution
 
 ## Random Number Generators
 * Linear Congruential Method
