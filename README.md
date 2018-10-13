@@ -34,6 +34,7 @@ Stay tuned as there are more interesting concepts / techniques / tools coming up
 * Negative Binomial Distribution
 * Poisson Distribution
 * Exponential Distribution
+* T-Distribution
 
 ## Random Number Generators
 * Linear Congruential Method
