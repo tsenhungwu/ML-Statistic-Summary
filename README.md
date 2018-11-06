@@ -40,6 +40,8 @@ Stay tuned as there are more interesting concepts / techniques / tools coming up
 (2) Hypothesis Testing
 * One Population Test (Mean / Proportion / Variance) 
 * Two Population Test (Mean / Proportion / Variance) 
+* Chi-sqaure Distribution: Four Main Applications
+
 ## Random Number Generators
 * Linear Congruential Method
 * RANDU Generator
