@@ -24,6 +24,7 @@ Stay tuned as there are more interesting concepts / techniques / tools coming up
 ## Deep Learning Models
 
 ## Statistic
+(1) Distribution
 * Normal Distribution
 * Normality Assumption Diagnosis
 * Transform data into a normal distribution
@@ -36,6 +37,9 @@ Stay tuned as there are more interesting concepts / techniques / tools coming up
 * Exponential Distribution
 * T-Distribution
 
+(2) Hypothesis Testing
+* One Population Test (Mean / Proportion / Variance) 
+* Two Population Test (Mean / Proportion / Variance) 
 ## Random Number Generators
 * Linear Congruential Method
 * RANDU Generator
