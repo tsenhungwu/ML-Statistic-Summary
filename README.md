@@ -1,4 +1,4 @@
-# ML + DL + Statistic + Random Number Generators 
+# Statistic + Machine Learning (ML) + Deep Learning (DL)
 
 Here is the summary of what I have learned so far in the world of data science by myself. 
 
