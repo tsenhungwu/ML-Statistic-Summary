@@ -1,6 +1,6 @@
 # ML + DL + Statistic + Random Number Generators 
 
-Here is the summary of what I have learned so far by myself.
+Here is the summary of what I have learned so far by myself. 
 
 I recorded all the techniques, concepts, and knowledge as jupyter notebook files (Python programming languages). 
 
@@ -20,6 +20,7 @@ Stay tuned as there are more interesting concepts / techniques / tools coming up
 # Topics 
 ## Machine Learning Models
 * Naive Bayes
+* Simple Linear Regression
 
 ## Deep Learning Models
 
