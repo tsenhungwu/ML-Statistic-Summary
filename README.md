@@ -19,9 +19,11 @@ Stay tuned as there are more interesting concepts / techniques / tools coming up
 
 # Topics 
 ## Machine Learning Algorithms (Models)
+* Bayesian Optimization - Hyperparameter Tuning (covered in each ML model)
 * Naive Bayes
 * Simple Linear Regression
 * Multiple Linear Regression
+* Regularized Multiple Linear Regression 
 
 ## Deep Learning Algorithms (Models)
 
