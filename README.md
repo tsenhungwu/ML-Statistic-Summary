@@ -14,6 +14,8 @@ If you have found any useful material and concept from my repository, don't reme
 
 Or, if you would like to contribute any comment or opinion on it, I'm very welcome to share with you!
 
+My LinkedIn: https://www.linkedin.com/in/tsen-hung-wu-268168149/
+
 Stay tuned as there are more interesting concepts / techniques / tools coming up!
 
 <p align="middle">
