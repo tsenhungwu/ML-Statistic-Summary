@@ -1,10 +1,14 @@
 # Statistic + Machine Learning (ML) + Deep Learning (DL)
 
-Here is the summary of what I have learned so far in the world of data science by myself. 
+Here is the summary of what I have learned so far in the world of data science by myself.
 
-I recorded all the techniques, concepts, and knowledge as jupyter notebook files using Python.
+I recorded all the techniques, concepts, and knowledge as jupyter notebook files using Python programming language.
 
-Statistic, Machine-Learning, and Deep-Learning are the main topics. 
+Statistic, Machine-Learning, and Deep-Learning are the main topics.
+
+My career aspiration is to be a data scientist. I am enthusiastic in discovering patterns or insights from data and solving a real business problem always brings me a sense of achievement. 
+
+I, as a self-learner, like to learn new things and explore the innovative applications, algorithms, or data science tools.
 
 If you have found any useful material and concept from my repository, don't remember to hit "Star" because this is the incentive for me to keep improving and uploading files.   
 
