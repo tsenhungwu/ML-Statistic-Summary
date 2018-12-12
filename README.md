@@ -6,7 +6,9 @@ I recorded all the techniques, concepts, and knowledge as jupyter notebook files
 
 Statistic, Machine-Learning, and Deep-Learning are the main topics.
 
-My career aspiration is to be a data scientist. I am enthusiastic in discovering patterns or insights from data and solving a real business problem always brings me a sense of achievement. 
+My career aspiration is to be a data scientist. 
+
+I am enthusiastic in discovering patterns or insights from data and solving a real business problem always brings me a sense of achievement. 
 
 I, as a self-learner, like to learn new things and explore the innovative applications, algorithms, or data science tools.
 
