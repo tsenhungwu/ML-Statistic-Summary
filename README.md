@@ -23,7 +23,7 @@ Stay tuned as there are more interesting concepts / techniques / tools coming up
 * Naive Bayes
 * Simple Linear Regression
 * Multiple Linear Regression
-* Regularized Multiple Linear Regression 
+* Regularized Multiple Linear Regression - Lasso / Ridge / Elastic Net
 
 ## Deep Learning Algorithms (Models)
 
