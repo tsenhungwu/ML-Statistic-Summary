@@ -13,8 +13,7 @@ Or, if you would like to contribute any comment or opinion on it, I'm very welco
 Stay tuned as there are more interesting concepts / techniques / tools coming up!
 
 <p align="middle">
-  <img height="200" width="300" src="https://github.com/tsenhungwu/ML_Statistic_Summary/blob/master/image_1.png" /> 
-  <img height="200" width="300" src="https://github.com/tsenhungwu/ML_Statistic_Summary/blob/master/random_fig.png" /> 
+  <img height="400" width="600" src="https://github.com/tsenhungwu/ML_Statistic_Summary/blob/master/image_1.png" /> 
 </p>
 
 # Topics 
