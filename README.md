@@ -31,6 +31,7 @@ Stay tuned as there are more interesting concepts / techniques / tools coming up
 * Simple Linear Regression
 * Multiple Linear Regression
 * Regularized Multiple Linear Regression - Lasso / Ridge / Elastic Net
+* Logistic Regression (Hand-written)
 
 ## Deep Learning Algorithms (Models)
 
