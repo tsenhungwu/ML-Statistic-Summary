@@ -27,11 +27,13 @@ Stay tuned as there are more interesting concepts / techniques / tools coming up
 # Topics 
 ## Machine Learning Algorithms (Models)
 * Bayesian Optimization - Hyperparameter Tuning (covered in each ML model)
+* Gradient Descent
 * Naive Bayes
 * Simple Linear Regression
 * Multiple Linear Regression
 * Regularized Multiple Linear Regression - Lasso / Ridge / Elastic Net
 * Logistic Regression (Hand-written)
+* SGDClassifier - An efficient type of Logistic Regression (With a real bank dataset)
 
 ## Deep Learning Algorithms (Models)
 
