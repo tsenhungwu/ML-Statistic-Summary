@@ -34,6 +34,7 @@ Stay tuned as there are more interesting concepts / techniques / tools coming up
 * Regularized Multiple Linear Regression - Lasso / Ridge / Elastic Net
 * Logistic Regression (Hand-written)
 * SGDClassifier - An efficient type of Logistic Regression (With a real bank dataset)
+* Decision Tree
 
 ## Deep Learning Algorithms (Models)
 
