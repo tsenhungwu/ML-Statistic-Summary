@@ -33,9 +33,9 @@ Stay tuned as there are more interesting concepts / techniques / tools coming up
 * Multiple Linear Regression
 * Regularized Multiple Linear Regression - Lasso / Ridge / Elastic Net
 * Logistic Regression (Hand-written)
-* SGDClassifier - An efficient type of Logistic Regression (With a real bank dataset)
+* SGDClassifier - An efficient type of Logistic Regression (covered in the bank term subscription data science project)
 * Decision Tree
-* Bagging (covered in Breast Cancer project)
+* Bagging (covered in the Breast Cancer data science project)
 
 ## Deep Learning Algorithms (Models)
 
