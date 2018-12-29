@@ -35,6 +35,7 @@ Stay tuned as there are more interesting concepts / techniques / tools coming up
 * Logistic Regression (Hand-written)
 * SGDClassifier - An efficient type of Logistic Regression (With a real bank dataset)
 * Decision Tree
+* Bagging (covered in Breast Cancer project)
 
 ## Deep Learning Algorithms (Models)
 
