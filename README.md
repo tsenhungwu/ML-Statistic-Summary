@@ -25,7 +25,7 @@ Stay tuned as there are more interesting concepts / techniques / tools coming up
 </p>
 
 # Topics 
-## Machine Learning Algorithms (Models)
+## Machine Learning Algorithms (Each of them has been covered in https://github.com/tsenhungwu/Data-Science-Project)
 * Bayesian Optimization - Hyperparameter Tuning (covered in each ML model)
 * Gradient Descent (Hand-written)
 * Naive Bayes
