@@ -45,6 +45,10 @@ Stay tuned as there are more interesting concepts / techniques / tools coming up
 
 ## Deep Learning Algorithms (Models)
 
+## Natural Language Processing (NLP)
+* NLP Objectives and Basic Steps
+
+
 ## Statistic
 (1) Distribution
 * Normal Distribution
